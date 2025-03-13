@@ -1,0 +1,23 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "main": "post-commit.js",
+  "scripts": {
+    "start": "node scripts/post-commit.js",
+    "dev": "nodemon scripts/post-commit.js",
+    "build": "echo \"No build script defined\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint . --ext .js",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "node-fetch": "2.6.7",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "eslint": "^8.56.0",
+    "prettier": "^3.1.0"
+  },
+  "type": "module"
+}

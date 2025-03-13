@@ -1,0 +1,11 @@
+{
+    "webhookUrls": [
+      "https://discord.com/api/webhooks/1274082243718942720/R7xRKAhUP_cQ3hyVPwqzyFKq05KuKpbLlaMu-BRDX4EnyacxsBKwL6F38gXv-PoGF59C",
+      "https://discord.com/api/webhooks/1290646751908335677/uTXWpBQF6rY9lghwU_7Qznt0BFUfagL0QaaqQQqRHhRdfhay3PJ-oyw2XOuvQVsu3cGD"
+    ],
+    "svnPath": "svn",
+    "repoUrl": "D:/SAG",
+    "checkInterval": 30000,
+    "revisionFilePath": "./data/revision.json"
+  }
+  
